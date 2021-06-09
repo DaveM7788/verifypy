@@ -1,0 +1,4 @@
+http://davesprojects.net/index.html, GET
+http://davesprojects.net/about.html, GET
+http://davesprojects.net/acft.html, GET
+http://davesprojects.net/contact.html, GET
