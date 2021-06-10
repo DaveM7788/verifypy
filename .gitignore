@@ -1,2 +1,3 @@
-urls_to_test.txt
 __pycache__
+urls_to_test.txt
+expected_responses/*.txt
