@@ -1,5 +1,5 @@
 import urlutils as ut
 
 if __name__ == '__main__':
-    util = ut.UrlUtils()
-    util.generate()
+    utils = ut.UrlUtils()
+    utils.verify()
