@@ -23,5 +23,5 @@ $ python gen_expected.py
 # Verify
 Run the verifypy.py script and observe the results. If the request was succesful but different from what was expected, a diff will be printed out
 ```
-$ python verifpy.py
+$ python verifypy.py
 ```
