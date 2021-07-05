@@ -2,6 +2,8 @@
 This project will verify all urls in a given text file. It is designed to be used with Windows Task Scheduler or cron to check the status of web instances on a regular basis
 
 # Track URLs
+Create a text file called urls_to_test in the same directory that the verifypy, urlutils, and gen_expected python files exist in
+
 Input the url or IP address in the text file, urls_to_test.txt, followed by a comma and then an HTTP method. Currently only GET is supported. See example below. Note that direct IP addresses may need to be prefixed by http://
 ```
 http://davesprojects.net/index.html, GET
